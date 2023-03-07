@@ -1,0 +1,9 @@
+p{
+    color: var(--primary);
+}
+
+.app-body{
+   margin-top: 150px;
+   min-height: 65vh;
+    
+}
